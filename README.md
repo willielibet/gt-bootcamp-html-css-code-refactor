@@ -25,6 +25,7 @@ To impress clients, you should always go the extra mile and improve the codebase
 Are you ready to jump in? Here are this week's homework requirements:
 
 ## 2. Directory Structure
+![directory_structure](assets/images/directory_structure.png "directory_structure")
 
 ## 3. User Story
 
