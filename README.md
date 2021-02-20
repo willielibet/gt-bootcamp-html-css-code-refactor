@@ -1,8 +1,13 @@
-# 01 HTML CSS Git: Code Refactor
+#                        GT-Coding Bootcamp HW1 -- HTML CSS Git: Code Refactor
 
-## Your Task
+## Table of Contents
+1. About This Task
+2. Directory Structure
+3. User Story
+4. Acceptance Criteria
+5. Getting Started
 
-**Note**: Be sure to review the [Homework Guide](../04-Important/Homework-Guide/README.md) and the [Good README Guide](../04-Important/Good-README-Guide/README.md) before you start working on this assignment!
+## 1. About This Task
 
 This week is an odd-numbered week, so your homework is an on-the-job ticket, which means you'll begin with starter code that you need to modify. This week's homework involves a very important aspect of web development: **accessibility**. 
 
@@ -18,7 +23,9 @@ To impress clients, you should always go the extra mile and improve the codebase
 
 Are you ready to jump in? Here are this week's homework requirements:
 
-## User Story
+## 2. Directory Structure
+
+## 3. User Story
 
 ```
 AS A marketing agency
@@ -26,7 +33,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 
-## Acceptance Criteria
+## 4. Acceptance Criteria
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -42,15 +49,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Mock-Up
-
-**Note**: This layout is designed for "desktop", so you may notice that some of the elements don't look like the Mock-Up when viewed at a resolution smaller than 768px. In future lessons, you will learn how to make elements "responsive" so that your web application is optimized for any screen size.
-
-The following image shows the web application's appearance and functionality:
-
-![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
-
-## Getting Started
+## 5. Getting Started
 
 Follow these instructions to create your project and deploy it to GitHub Pages:
 
@@ -69,54 +68,3 @@ You can also refer to this [YouTube video](https://youtu.be/P4Mu1t5rIXg) to walk
 **Important**: It may take a few moments for GitHub pages to display your site correctly. If your project doesn't deploy or show up, make sure that all file paths in your application are relative and using the right casing. GitHub is case-sensitive, so there is a difference between a capitalized and uncapitalized letter to them.
 
 Make sure you add, commit, and push your work to see the most up-to-date version of your app!
-
-## Grading Requirements
-
-This homework is graded based on the following criteria: 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria plus the following code improvements:
-
-  * Application's links all function correctly.
-
-  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-
-  * Application's CSS file is properly commented.
-
-### Deployment: 32%
-
-* Application deployed at live URL using GitHub Pages.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository that contains application code.
-
-### Application Quality: 15%
-
-* Application resembles (at least 90%) screenshots provided in the homework instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
