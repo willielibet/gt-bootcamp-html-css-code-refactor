@@ -25,6 +25,8 @@ To impress clients, you should always go the extra mile and improve the codebase
 Are you ready to jump in? Here are this week's homework requirements:
 
 ## 2. Directory Structure
+Feel free to ignore the Develop directory and its contents. I left it there just in case it is a requirement for this work.
+
 ![directory_structure](assets/images/directory_structure.png "directory_structure")
 
 ## 3. User Story
@@ -71,4 +73,4 @@ You can also refer to this [YouTube video](https://youtu.be/P4Mu1t5rIXg) to walk
 
 Make sure you add, commit, and push your work to see the most up-to-date version of your app!
 
-![image](assets/01-html-css-git-homework-demo.png "image")
+![image](assets/images/01-html-css-git-homework-demo.png "image")
