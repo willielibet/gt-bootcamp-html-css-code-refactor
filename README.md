@@ -27,7 +27,7 @@ Are you ready to jump in? Here are this week's homework requirements:
 ## 2. Directory Structure
 Feel free to ignore the Develop directory and its contents. I left it there just in case it is a requirement for this work.
 
-![directory_structure](assets/images/directory_structure02.png "directory_structure")
+![directory_structure](assets/images/directory_structure.jpeg "directory_structure")
 
 ## 3. User Story
 
