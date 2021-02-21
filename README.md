@@ -73,4 +73,4 @@ You can also refer to this [YouTube video](https://youtu.be/P4Mu1t5rIXg) to walk
 
 Make sure you add, commit, and push your work to see the most up-to-date version of your app!
 
-![image](assets/images/01-html-css-git-homework-demo.png "image")
+![webpage](assets/images/webpage.jpeg "webpage")
