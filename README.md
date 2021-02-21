@@ -7,6 +7,7 @@
 3. User Story
 4. Acceptance Criteria
 5. Getting Started
+6. Web Page Appearance
 
 ## 1. About This Task
 
@@ -73,4 +74,5 @@ You can also refer to this [YouTube video](https://youtu.be/P4Mu1t5rIXg) to walk
 
 Make sure you add, commit, and push your work to see the most up-to-date version of your app!
 
+## 6. Web Page Appearance
 ![webpage](assets/images/webpage.jpeg "webpage")
