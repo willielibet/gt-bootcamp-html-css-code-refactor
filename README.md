@@ -27,9 +27,9 @@ Feel free to ignore the Develop directory and its contents. I left it there just
 ![directory_structure](assets/images/directory_structure.png "directory_structure")
 
 ## 3. Links to deployed application
-[title](https://github.com/willielibet/gt-bootcamp-html-css-code-refactor.git)
+[Click here to go to github repository.](https://github.com/willielibet/gt-bootcamp-html-css-code-refactor.git)
 
-[title](https://willielibet.github.io/gt-bootcamp-html-css-code-refactor/)
+[Click here to go to deployed application.](https://willielibet.github.io/gt-bootcamp-html-css-code-refactor/)
 
 ## 4. Web Page Appearance
 ![webpage](assets/images/webpage.jpeg "webpage")
