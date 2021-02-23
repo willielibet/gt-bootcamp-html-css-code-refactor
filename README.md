@@ -4,7 +4,8 @@
 
 1. About This Task
 2. Directory Structure
-3. Web Page Appearance
+3. Links to deployed application
+4. Web Page Appearance
 
 ## 1. About This Task
 
@@ -25,5 +26,10 @@ Feel free to ignore the Develop directory and its contents. I left it there just
 
 ![directory_structure](assets/images/directory_structure.png "directory_structure")
 
-## 3. Web Page Appearance
+## 3. Links to deployed application
+[title](https://github.com/willielibet/gt-bootcamp-html-css-code-refactor.git)
+
+[title](https://willielibet.github.io/gt-bootcamp-html-css-code-refactor/)
+
+## 4. Web Page Appearance
 ![webpage](assets/images/webpage.jpeg "webpage")
