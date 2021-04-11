@@ -34,6 +34,8 @@ Feel free to ignore the Develop directory and its contents. I left it there just
 ## 4. Web Page Appearance
 
 ![webpage](assets/images/webpage.jpeg "webpage")
+![top](assets/images/webpage02.png "top-webpage")
+![top](assets/images/webpage03.png "top-webpage")
 
 ## 5. Technologies Used
 
